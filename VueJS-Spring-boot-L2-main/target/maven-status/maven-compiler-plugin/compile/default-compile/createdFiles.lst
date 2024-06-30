@@ -1,0 +1,5 @@
+com\waterlood\school\VuejsApiL2Application.class
+com\waterlood\school\model\Material.class
+com\waterlood\school\controller\MaterialController.class
+com\waterlood\school\service\MaterialService.class
+com\waterlood\school\repository\MaterialRepository.class
